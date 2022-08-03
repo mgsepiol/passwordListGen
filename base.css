@@ -1,0 +1,44 @@
+*{
+    font-family: cursive;background: #f2f2f2;
+}
+
+.form, #password, #button{
+    box-shadow: 0px -6px 10px rgba(255, 255, 255, 1), 0px 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.form{
+    border-radius: 30px;    
+    padding: 20px;
+}
+
+#passLen {
+    text-align: center;
+    width: 200px;
+    height:45px;
+    padding: 3px;
+    margin: 50px 0px 30px 80px;
+    border-radius: 50px;
+    border: none}#password{
+    height: 350px;width: 300px;
+    text-align: center;
+    padding: 3px;
+    margin-left: 30px;
+    border-radius: 50px}#data{
+    height: 300px;width: 135px;
+    text-align: center;
+    padding: 3px;
+    margin-left: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: sans-serif}#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    margin-top: 50px;
+    width: 130px;height:45px;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 50px}.reset{    margin-left: 85px;
+}#button:hover{    box-shadow:inset 5px 6px 10px rgba(255, 255, 255, 0.3), inset -5px 4px 10px rgba(0, 0, 0, 0.15)}

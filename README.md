@@ -6,3 +6,4 @@ then you hit create and you get a random list of 10 passwords with the set lengt
 
 You can also reset to try again!
 
+Adapted from https://codepen.io/antoniasymeonidou/pen/XWeddjN
